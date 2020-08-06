@@ -46,7 +46,6 @@ Here are some ideas to get you started:
 **Languages and Tools:**
 
 <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQuGQPhcXzjhpoYEY0EYU_UUNB0tBdC7A_Anw&usqp=CAU" title="Java"></code>
-
 <code><img height="20" src="https://github.com/YashSaxena9/YashSaxena9/blob/master/assets/javascript.png" title="Javascript"></code>
 <code><img height="20" src="https://github.com/YashSaxena9/YashSaxena9/blob/master/assets/nodejs.png" title="Nodejs"></code>
 <code><img height="20" src="https://github.com/YashSaxena9/YashSaxena9/blob/master/assets/sass.png" title="SASS"></code>
