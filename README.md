@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 -->
 ### Hi there, I'm [Yash Saxena!](https://yashsaxena9.github.io/) 👋
 
-<img align="right" width="300px" src="./Emo.jpeg">
+<img align="right" width="300px" src="https://github.com/YashSaxena9/YashSaxena9/blob/master/Emo.jpeg">
 
 <a href="https://yashsaxena9.github.io/">
-  <img align="left" alt="website" width="48px" src="./Emo.jpeg" />
+  <img align="left" alt="website" width="48px" src="https://github.com/YashSaxena9/YashSaxena9/blob/master/Emo.jpeg" />
 </a>
 <a href="https://twitter.com/Crimsonprince9">
   <img align="left" alt="Twitter" width="48px" src="https://pngimg.com/uploads/twitter/twitter_PNG3.png" />
@@ -46,15 +46,16 @@ Here are some ideas to get you started:
 **Languages and Tools:**
 
 <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQuGQPhcXzjhpoYEY0EYU_UUNB0tBdC7A_Anw&usqp=CAU" title="Java"></code>
-<code><img height="20" src="./assets/javascript.png" title="Javascript"></code>
-<code><img height="20" src="./assets/nodejs.png" title="Nodejs"></code>
-<code><img height="20" src="./assets/sass.png" title="SASS"></code>
-<code><img height="20" src="./assets/bootstrap.png" title="Bootstrap"></code>
-<code><img height="20" src="./assets/git.png" title="Git"></code>
-<code><img height="20" src="./assets/cplusplus.png" title="C++"></code>
-<code><img height="20" src="./assets/linux.svg" title="Linux"></code>
-<code><img height="20" src="./assets/vscode.png" title="VsCode"></code>
-<code><img height="20" src="./assets/mysql.svg" title="Databases"></code>
+
+<code><img height="20" src="https://github.com/YashSaxena9/YashSaxena9/blob/master/assets/javascript.png" title="Javascript"></code>
+<code><img height="20" src="https://github.com/YashSaxena9/YashSaxena9/blob/master/assets/nodejs.png" title="Nodejs"></code>
+<code><img height="20" src="https://github.com/YashSaxena9/YashSaxena9/blob/master/assets/sass.png" title="SASS"></code>
+<code><img height="20" src="https://github.com/YashSaxena9/YashSaxena9/blob/master/assets/bootstrap.png" title="Bootstrap"></code>
+<code><img height="20" src="https://github.com/YashSaxena9/YashSaxena9/blob/master/assets/git.png" title="Git"></code>
+<code><img height="20" src="https://github.com/YashSaxena9/YashSaxena9/blob/master/assets/cplusplus.png" title="C++"></code>
+<code><img height="20" src="https://github.com/YashSaxena9/YashSaxena9/blob/master/assets/linux.svg" title="Linux"></code>
+<code><img height="20" src="https://github.com/YashSaxena9/YashSaxena9/blob/master/assets/vscode.png" title="VsCode"></code>
+<code><img height="20" src="https://github.com/YashSaxena9/YashSaxena9/blob/master/assets/mysql.svg" title="Databases"></code>
 
 <br />
 
