@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-<p> A passionate self-taught programmer/developer from <b>INDIA</b>💖. </p>
+<p> A passionate self-taught programmer/developer from <b>INDIA</b>💜. </p>
 
 - 🔭 I’m currently working on my [Portofolio](https://yashsaxena9.github.io/)
 - 🌱 I’m currently learning [Javascript](https://www.freecodecamp.org/learn/)
