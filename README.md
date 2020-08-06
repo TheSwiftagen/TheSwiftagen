@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my [Portofolio](https://yashsaxena9.github.io/)
 - 🌱 I’m currently learning [Javascript](https://www.freecodecamp.org/learn/)
-- 💬 Ask me about anything [here](https://github.com/yashsaxena9/yashsaxena9/issues)
+- 💬 Ask me about anything [here](https://github.com/yashsaxena9/yashsaxena9/issues) or mail me on <yashsaxena962000@gmail.com>
 
 **Languages and Tools:**
 
