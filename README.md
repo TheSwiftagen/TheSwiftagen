@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 </a>
 
 <br />
-<br />
+<hr />
 <br />
 
 <p> A passionate self-taught programmer/developer from <b>INDIA</b>💜. </p>
