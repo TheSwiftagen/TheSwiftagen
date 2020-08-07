@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 ### Hi there, I'm [Yash Saxena!](https://yashsaxena9.github.io/) 👋
 
 <img align="right" width="300px" src="https://github.com/YashSaxena9/YashSaxena9/blob/master/Emo.jpeg">
-
+<!-- 
 <br />
 <br />
 <br />
-
+ -->
 <a href="https://yashsaxena9.github.io/">
   <img align="left" alt="website" width="48px" src="https://github.com/YashSaxena9/YashSaxena9/blob/master/Emo.jpeg" />
 </a>
