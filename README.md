@@ -17,8 +17,15 @@ Here are some ideas to get you started:
 
 <img align="right" width="300px" src="https://github.com/YashSaxena9/YashSaxena9/blob/master/Emo.jpeg">
 
+<br />
+<br />
+<br />
+
 <a href="https://yashsaxena9.github.io/">
   <img align="left" alt="website" width="48px" src="https://github.com/YashSaxena9/YashSaxena9/blob/master/Emo.jpeg" />
+</a>
+<a href="hhttps://www.linkedin.com/in/yash-saxena-894850185/">
+  <img align="left" alt="Linkedin" width="48px" src="https://github.com/YashSaxena9/YashSaxena9/blob/master/assets/linkedin.png" />
 </a>
 <a href="https://twitter.com/Crimsonprince9">
   <img align="left" alt="Twitter" width="48px" src="https://pngimg.com/uploads/twitter/twitter_PNG3.png" />
